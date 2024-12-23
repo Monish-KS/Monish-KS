@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Monish K S</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Backend Developer from India</h3>
 
-- 🔭 I’m currently working on [RAG Implementation Locally](https://github.com/Monish-KS/RAG_Implementation)
+- 🔭 I’m currently working on [Optimization using Genetic Algorithms](https://github.com/Monish-KS/Genetic_algorithm_implementation)
 
-- 🌱 I’m currently learning **RAG pipeline, NextJS**
+- 🌱 I’m currently learning **Genetic Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
